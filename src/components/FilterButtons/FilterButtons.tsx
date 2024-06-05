@@ -1,6 +1,6 @@
-// FilterButtons.tsx
 import React from "react";
 import { FilterButtonsProps } from "../../types/types";
+import "./FilterButtons.css";
 
 export default function FilterButtons({
   filter,

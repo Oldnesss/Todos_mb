@@ -36,7 +36,7 @@ git clone https://github.com/Oldnesss/Todos_mb.git
 ```
 
 ```
-cd Todos
+cd Todos_mb
 ```
 
 ```
